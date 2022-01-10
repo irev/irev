@@ -1,8 +1,6 @@
 # Hi there 👋 I am Andra Meedun
 
-<p align="center">
-<a href="https://steamcommunity.com/id/irev/"><img src="https://img.shields.io/badge/-DouglasDRF-333333?style=flat-square&logo=steam"/></a></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irev&label=Douglas's%20Profile%20Views&color=135429&style=flat"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=irev&label=irev's%20Profile%20Views&color=135429&style=flat"/> </p>
 
 ## About Me 
 
@@ -67,3 +65,15 @@
 </a>
 </p>
 
+[![IREV's github activity graph](https://activity-graph.herokuapp.com/graph?username=irev&theme=xcode)](https://git.io/irev)
+
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=irev&skills=JavaScript,pythone,php,TSQL,TypeScript,hack&show-other-skills=true"
+/>
+
+### Public repos
+
+![stats][]
+Stats by [tipsy/profile-summary-for-github][]
