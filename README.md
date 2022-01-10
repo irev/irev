@@ -57,14 +57,19 @@
 
 ## GitHub Analytics 
 
+ 
+<p align="center">
+<a href="https://github.com/irev">
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irev&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java,hack" />
+</a>
+</p>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irev&count_private=true&show_icons=true&theme=merko"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irev&theme=merko"/>
-<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irev&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java,hack" />
-<a href="https://github.com/irev"></a>
 </p>
 
 [![IREV's github activity graph](https://activity-graph.herokuapp.com/graph?username=irev&theme=xcode)](https://git.io/irev)
+
 <!--
 ### All repos
 
@@ -72,4 +77,6 @@
 
 ### Public repos
 -->
+
+
 Stats by  [tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
