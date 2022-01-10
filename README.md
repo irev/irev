@@ -65,11 +65,11 @@
 </p>
 
 [![IREV's github activity graph](https://activity-graph.herokuapp.com/graph?username=irev&theme=xcode)](https://git.io/irev)
-<--
+<!--
 ### All repos
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=irev&skills=JavaScript,pythone,php,TSQL,TypeScript,hack&show-other-skills=true"/>
 
 ### Public repos
 -->
-Stats by  ![tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
+Stats by  [tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
