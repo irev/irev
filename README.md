@@ -6,7 +6,6 @@
 
 ## About Me 
 
-- 🎓 BEng in Computer Engineering on progress
 - 🧑‍💻 Software Developer since 2016, Back-End most time
 - 💼 Currently working at <a href="#">Communication Department</a>
 </br>
