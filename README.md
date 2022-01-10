@@ -75,5 +75,5 @@
 
 ### Public repos
 
-![stats][]
-Stats by [tipsy/profile-summary-for-github][]
+
+Stats by ![tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
