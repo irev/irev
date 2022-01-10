@@ -69,11 +69,9 @@
 
 ### All repos
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=irev&skills=JavaScript,pythone,php,TSQL,TypeScript,hack&show-other-skills=true"
-/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=irev&skills=JavaScript,pythone,php,TSQL,TypeScript,hack&show-other-skills=true"/>
 
 ### Public repos
 
-
+![stats][]
 Stats by ![tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
