@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/irev/irev/main/wave-head1.svg"/> 
+<!--img src="https://raw.githubusercontent.com/irev/irev/main/wave-head1.svg"/--> 
 
 # Hi there 👋 I am Refyandra
 
@@ -81,4 +81,4 @@
 
 Stats by  [tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
 
-<img src="https://raw.githubusercontent.com/irev/irev/main/wave-footer.svg"/> 
+<!--img src="https://raw.githubusercontent.com/irev/irev/main/wave-footer.svg"/--> 
