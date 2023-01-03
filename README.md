@@ -20,13 +20,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 ### Libraries and Frameworks
- ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
- ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
- ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
- ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
- ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+ ![codeigniter](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=codeigniter)
+ ![laravel](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=laravel)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-   
+ ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+ 
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -49,7 +47,10 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=42bff5)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
+ ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
+ ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+ ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
  
 </br>
 
