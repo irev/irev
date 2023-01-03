@@ -31,12 +31,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  #### learning process
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
-  ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-  ![Travis](https://img.shields.io/badge/-TravisCI-333333?style=flat&logo=travisci&logoColor=FFF)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
