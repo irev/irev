@@ -13,6 +13,7 @@
 ## Tech Knowdledge
 
 ### Languages
+  ![php](https://img.shields.io/badge/-C%23-333333?style=flat&logo=php&logoColor=7e10cc)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
