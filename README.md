@@ -20,8 +20,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 ### Libraries and Frameworks
- ![codeigniter](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=codeigniter)
- ![laravel](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=laravel)
+ ![codeigniter](https://img.shields.io/badge/-codeigniter-333333?style=flat&logo=codeigniter)
+ ![laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
  
