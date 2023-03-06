@@ -7,7 +7,7 @@
 ## About Me 
 
 - 🧑‍💻 Software Developer since 2016, Back-End most time
-- 💼 Currently working at <a href="#">Communication Department</a>
+
 </br>
 
 ## Tech Knowdledge
