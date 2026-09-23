@@ -1,83 +1,76 @@
-<!--img src="https://raw.githubusercontent.com/irev/irev/main/wave-head1.svg"/--> 
+# Hi, I'm Refyandra 👋
 
-# Hi there 👋 I am Refyandra
+Backend-focused software developer from Indonesia, building production systems since 2016. I enjoy turning complex workflows into practical tools, with a current focus on AI agents, developer tooling, automation, and security-oriented utilities.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irev&label=irev's%20Profile%20Views&color=135429&style=flat"/> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=irev&label=Profile%20views&color=135429&style=flat" alt="Profile views" />
+</p>
 
-## About Me 
+## What I'm working on
 
-- 🧑‍💻 Software Developer since 2016, Back-End most time
+- Building autonomous AI agents and local-first developer tools
+- Developing backend services, workflow automation, and system integrations
+- Exploring security, DFIR, and code-analysis utilities
+- Making local AI and Indonesian language tooling more accessible
 
-</br>
+## Featured projects
 
-## Tech Knowdledge
+- [Cadiax](https://github.com/irev/cadiax) - An autonomous AI agent framework designed to think, plan, and act.
+- [OsGuardian](https://github.com/irev/OsGuardian) - A local-first, evidence-based Windows, WSL, and Docker auditing tool.
+- [JSDeobfuscator](https://github.com/irev/JSDeobfuscator) - A DFIR-focused JavaScript deobfuscation tool.
+- [MMS-TTS Indonesian ONNX](https://github.com/irev/mms-tts-ind-onnx) - Local Indonesian text-to-speech using an ONNX-exported model.
+
+## Tech stack
 
 ### Languages
-  ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php&logoColor=php)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
-### Libraries and Frameworks
- ![codeigniter](https://img.shields.io/badge/-codeigniter-333333?style=flat&logo=codeigniter)
- ![laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
- ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
- 
-### Infrastructure and DevOps
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
+![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=dotnet&logoColor=512BD4)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
+![Shell](https://img.shields.io/badge/Shell-333333?style=flat&logo=gnubash)
 
-### Enviroment, IDEs and Tools
-  ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
+### Frameworks and platforms
 
-</br>
+![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=dotnet)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs)
+![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333333?style=flat&logo=githubactions)
 
-## Technologies I'm interested to learn more 
+### Data and tools
 
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=42bff5)
-  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
- ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
- ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
- ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
- 
-</br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=flat&logo=visualstudio)
+![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
-## GitHub Analytics 
+## GitHub stats
 
- 
 <p align="center">
-<a href="https://github.com/irev">
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irev&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java,hack" />
-</a>
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irev&count_private=true&show_icons=true&theme=merko"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irev&theme=merko"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irev&theme=github_dark" alt="Refyandra's GitHub contribution summary" />
 </p>
 
-[![IREV's github activity graph](https://activity-graph.herokuapp.com/graph?username=irev&theme=xcode)](https://git.io/irev)
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irev&theme=github_dark" alt="Refyandra's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irev&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
 
-<!--
-### All repos
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=irev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=irev&skills=JavaScript,pythone,php,TSQL,TypeScript,hack&show-other-skills=true"/>
+## Connect
 
-### Public repos
--->
-
-
-Stats by  [tipsy/profile-summary-for-github](https://profile-summary-for-github.com/user/irev)
-
-<!--img src="https://raw.githubusercontent.com/irev/irev/main/wave-footer.svg"/--> 
+<p align="left">
+  <a href="https://github.com/irev">
+    <img src="https://img.shields.io/badge/GitHub-irev-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/irev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Projects-135429?style=for-the-badge&logo=github" alt="Explore my projects" />
+  </a>
+</p>
